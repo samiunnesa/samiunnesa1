@@ -1,0 +1,83 @@
+/* 
+theme name:ThemeSamiun
+author: Samiun Nesa
+version: 1.1
+description: this is for taining purpose
+tags: mpi,web dev,web design
+text domain: themesamiun
+*/
+
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+body{
+    background: url(./assets/images/background/bg_main.gif) center center;
+}
+header{
+        background: rgb(133, 74, 145);
+    }
+ .cont{
+max-width: 1020px;
+margin: 0 auto;
+    }
+    .topbar{
+        color: aliceblue;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .topbar_right a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+    .topbar_left p{
+        padding-left: 20px;
+    }
+    .topbar_right p{
+        padding-right: 10px;
+    }
+    .logo_search{
+        padding-top: 35px;
+    }
+   .logo_right{
+    padding-top: 30px;
+   }
+   .logo_right_1{
+    padding-top: 10px;
+    padding-right: 7px;
+    margin-right: 7px;
+    border-right: 1px solid #ddd;
+   }
+   .main_menu ul li a{
+    border-right: 1px solid rgb(238, 226, 226);
+   }
+   .banner{
+    border: 2px solid tomato;
+    padding: 10px;
+   }
+   .slider {
+    padding-top: 10px;
+   }
+   .fb_left ul li a {
+    font-size: 13px;
+    font-size: 13px;
+    border-right: 1px solid #ddd;
+   
+    
+   }
+   .fb_left p{
+     padding-left: 20px;
+     font-size: 13px;
+   }
+   .fb_right p{
+    font-size: 10px;
+   }
+   .sidebar_videos h5{
+    background: green;
+    color: #ddd;
+    padding-left: 10px;
+    padding-left: 10px;
+
+   }
